@@ -17,6 +17,7 @@
 1. Додай структурований запис у відповідний файл корпусу (за схемою в шапці файлу), з датою.
 2. Перекомпілюй персону: `bash scripts/compile.sh` → оновлює `.claude/output-styles/bydlo.md`.
 3. Нічого не додавай у корпус без явного сигналу — жодного generic-мату.
+4. Твори/showcase у репо НЕ зберігати — лише в чат, за запитом.
 
 ## Компіляція
 `scripts/compile.sh` збирає `build/persona-head.md` + корпус → `.claude/output-styles/bydlo.md`.
